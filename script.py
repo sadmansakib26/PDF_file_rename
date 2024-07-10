@@ -44,8 +44,8 @@ safety_settings = [
 
 # modify if needed
 system_instruction = """Input: The first page of a scientific journal article.
-            Output: Reply with the title of the paper followed by the last name of the first author. 
-            Format the response as: "Title of the Paper - First Author's Last Name". 
+            Output: Reply with the title of the paper followed by the last name of the first author 
+            followed by the year. Format the response as: "Title of the Paper - First Author's Last Name - Year". 
             Do not include any additional text or information."""
 
 

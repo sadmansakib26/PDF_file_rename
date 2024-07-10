@@ -7,7 +7,7 @@ This script uses Google's Generative AI (Gemini) to rename PDF files of scientif
 - Python 3
 - PyPDF2
 - google-generativeai
-- Google AI Studio API Key (https://aistudio.google.com/) (Currently it's free)
+- Google AI Studio API Key (https://aistudio.google.com/) (Make sure that the "Plan" corresponding to the API key is "Free of Charge")
 - python-dotenv
 
 ## Setup
